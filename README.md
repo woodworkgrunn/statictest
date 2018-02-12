@@ -1,0 +1,2 @@
+# statictest
+test
